@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 🙋🏼‍♀️, I'm Beril Kartal</h1>
+<h1 align="left">Hi 🙋🏼‍♀️, I'm Beril</h1>
 <h3 align="left">Software Developer</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
