@@ -1,6 +1,6 @@
 
 <h1 align="left">Hi 🙋🏼‍♀️, I'm Beril</h1>
-<h3 align="left">Software Developer</h3>
+<h3 align="left">Data Science</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
 
@@ -21,7 +21,6 @@
 <h3 align="left">🔥   My Stats :</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=berilkln&show_icons=true&locale=en&layout=compact" alt="berilkln" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berilkln&show_icons=true&locale=en" alt="berilkln" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=berilkln&" alt="berilkln" /></p>
 
